@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Patrick <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
+<h1> Hi there, I'm Pat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-patmw-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pat-mw/)][linkedin]
 [![Website Badge](https://img.shields.io/badge/-patmw.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://patmw.me)][website]
@@ -14,28 +14,25 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
-
-
-[<img align="left" alt="Unity Engine" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/unity.svg" />][unity]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/c-sharp.svg" />][csharp]
-[<img align="left" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/unreal.svg" />][unreal]
-[<img align="left" alt="Blender" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/blender.svg" />][blender]
-[<img align="left" alt="A-Frame" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/a-frame.svg" />][aframe]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/python.svg" />][python]
-[<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/vs-code.svg" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/html5.svg" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/css3.svg" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/javascript.svg" />][js]
-[<img align="left" alt="Pug" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/pug.svg" />][pug]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/sass.svg" />][sass] 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/nodejs.svg" />][node]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/sql.svg" />][SQL]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/git.svg" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/github.svg" />][github]
-[<img align="left" alt="GitLab" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/gitlab.svg" />][gitlab]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/pat-mw/pat-mw/c3f967a84ace02417b3b5f3b5c74c4b578a5d623/software_icons/terminal.svg" />][terminal]
+[![UnityBadge](https://img.shields.io/badge/-Unity-383838?&logo=Unity)][unity]
+[![CSharpBadge](https://img.shields.io/badge/-C%23-383838?&logo=C%20Sharp)][csharp]
+[![UnrealBadge](https://img.shields.io/badge/-Unreal%20Engine-383838?&logo=Unreal%20Engine)][unreal]
+[![BlenderBadge](https://img.shields.io/badge/-Blender-383838?&logo=Blender)][blender]
+[![AFrameBadge](https://img.shields.io/badge/-A--Frame-383838?&logo=A-Frame)][aframe]
+[![PythonBadge](https://img.shields.io/badge/-Python-383838?&logo=Python)][python]
+[![VSCodeBadge](https://img.shields.io/badge/-VS_Code-383838?&logo=Visual%20Studio%20Code)][vscode]
+[![HTMLBadge](https://img.shields.io/badge/-HTML5-383838?&logo=HTML5)][html]
+[![CSSBadge](https://img.shields.io/badge/-CSS3-383838?&logo=CSS3)][css]
+[![JSBadge](https://img.shields.io/badge/-JavaScript-383838?&logo=JavaScript)][js]
+[![PugBadge](https://img.shields.io/badge/-Pug-383838?&logo=Pug)][pug]
+[![SassBadge](https://img.shields.io/badge/-Sass-383838?&logo=Sass)][sass]
+[![NodeBadge](https://img.shields.io/badge/-Node_JS-383838?&logo=Node.js)][node]
+[![GitBadge](https://img.shields.io/badge/-Git-383838?&logo=Git)][git]
+[![GitHubBadge](https://img.shields.io/badge/-GitHub-383838?&logo=GitHub)][github]
+[![GitLabBadge](https://img.shields.io/badge/-GitLab-383838?&logo=GitLab)][gitlab]
+[![TerminalBadge](https://img.shields.io/badge/-Terminal-383838?&logo=Windows%20Terminal)][terminal]
 
 [website]: https://patmw.me
 [youtube]: https://youtube.com/patmw
