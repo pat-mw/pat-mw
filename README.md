@@ -12,7 +12,6 @@
 - 🥅 2021 Goals: Keep grinding, keep learning & expand my network
 - ⚡ On the side I love making visual art (3D/Photo/Video) and music
 
-<br />
 ## Languages and Tools:
 
 [![UnityBadge](https://img.shields.io/badge/-Unity-383838?&logo=Unity)][unity]
