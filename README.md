@@ -9,7 +9,7 @@
 - 👾 Specialising in XR development (AR/VR)
 - 🌱 Passionate about learning! Always have a side project
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Keep grinding, keep learning & expand my network
+- 🥅 2022 Goals: Keep grinding, keep learning & find new challenges to work on.
 - ⚡ On the side I love making visual art (3D/Photo/Video) and music
 
 ## Languages and Tools:
