@@ -5,10 +5,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-@pat.mw-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/pat.mw/)][instagram]
 [![Gmail Badge](https://img.shields.io/badge/-pmassowalsh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pmassowalsh@gmail.com)][mail]
 
-## I'm a Physics Graduate, Creative Developer & Spatial Computing Engineer.
-- 👾 Specialising in XR development (AR/VR) and Blockchain.
+## I'm a Physics Graduate, Creative Developer & Full-stack Engineer.
 - 🌱 Passionate about learning! Always have a side project
-- 🥅 2022 Goals: Keep grinding, keep learning & find new challenges to work on.
+- 🥅 2024 Goals: Keep grinding, keep learning & find new challenges to work on.
 - ⚡ On the side I love making visual art (3D/Photo/Video) and music
 
 ## Languages and Tools:
