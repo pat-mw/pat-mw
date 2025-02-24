@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-patmw-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pat-mw/)][linkedin]
 [![Instagram Badge](https://img.shields.io/badge/-@pat.mw-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/pat.mw/)][instagram]
-[![Gmail Badge](https://img.shields.io/badge/-pmassowalsh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pmassowalsh@gmail.com)][mail]
+[![Gmail Badge](https://img.shields.io/badge/-info.uzolab-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:info.uzolab@gmail.com)][mail]
 
 ## Languages and Tools:
 
