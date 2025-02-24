@@ -1,7 +1,6 @@
 <h1> Hi there, I'm Pat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-patmw-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pat-mw/)][linkedin]
-[![Website Badge](https://img.shields.io/badge/-patmw.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://patmw.me)][website]
 [![Instagram Badge](https://img.shields.io/badge/-@pat.mw-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/pat.mw/)][instagram]
 [![Gmail Badge](https://img.shields.io/badge/-pmassowalsh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pmassowalsh@gmail.com)][mail]
 
