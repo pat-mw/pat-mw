@@ -28,7 +28,7 @@
 [youtube]: https://youtube.com/patmw
 [instagram]: https://instagram.com/pat.mw
 [linkedin]: https://www.linkedin.com/in/pat-mw/
-[mail]: mailto:pmassowalsh@gmail.com
+[mail]: mailto:info.uzolab@gmail.com
 
 <!--  -->
 
